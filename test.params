@@ -1,0 +1,8 @@
+-npart 1200
+-roi 0.2
+-kv 0.01
+-density 17
+-sdelta 3
+-sscale 1
+-veps 0.5
+gravity = (0, -4, 0)
