@@ -6,6 +6,10 @@
 
 *  OpenImageIO: [Download](https://github.com/OpenImageIO/oiio)  
 
+### Example
+
+*  [Simulation with 4 materials](https://player.vimeo.com/video/186326359?autoplay=1&loop=1)
+
 ### Building
 *  make -- make all required libraries
 *  make final\_sph2d -- makes the final\_sph2d executable; requires libraries to be built
