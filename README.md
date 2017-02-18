@@ -8,7 +8,7 @@
 
 ### Example
 
-*  [Simulation with 4 materials](https://player.vimeo.com/video/186326359?autoplay=1&loop=1)
+*  [Simulation with 4 materials](https://vimeo.com/186326359)
 
 ### Building
 *  make -- make all required libraries
